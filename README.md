@@ -7,7 +7,7 @@ Un site web simple pour présenter mes compétences et projets en tant que déve
 - CSS3
 
 ## Fonctionnalités
-- Design responsive (à ajouter si vous le faites)
+- Design responsive 
 - Présentation claire de mes compétences et contacts
 
 ## Démo
